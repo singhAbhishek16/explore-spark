@@ -1,0 +1,6 @@
+.spark-venv/
+ml-100k/
+spark-warehouse
+*.csv
+book.txt
+.idea/
